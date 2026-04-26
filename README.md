@@ -16,7 +16,7 @@ B.E. AI & Data Science student from Bengaluru, India, interested in data analysi
 
 ## 📂 Projects
 
-- (Soon) Python EDA notebook on a public dataset  
+- (Upcoming) Python EDA notebook on a public dataset  
 - College mini-projects (C / Java / web)
 
 > Learning by building real-world projects.
