@@ -1,22 +1,37 @@
-# Hi, I'm Panchami 👋
 
-B.E. AI & Data Science student from Bengaluru, India, interested in data analysis, machine learning, and solving real-world problems with code.
+# Hi, I'm Panchami R 👋
 
-- 🔭 Currently learning: Python for data analysis, SQL, ML basics  
-- 📊 Interested in: Data Science, Analytics, AI/ML projects  
-- 🌱 Building: small projects in Python, C, Java, and web technologies  
-- 💼 Open to: internships in Data / AI / Analytics  
+Python Data Engineer focused on ETL pipelines, data cleaning, automation, and data processing solutions.
 
-## 🛠️ Skills & Tools
+I build practical, production-ready tools using Python, SQL, Pandas, and Streamlit to transform messy datasets into clean, structured, and usable systems.
 
-- Languages: Python, C, Java, SQL  
-- Data: Pandas, NumPy, Matplotlib (learning)  
-- Databases: MySQL / SQL basics  
-- Other: Git, GitHub, VS Code  
+## What I Work On
 
-## 📂 Projects
+* ETL Pipeline Development
+* Data Cleaning & CSV Automation
+* Web Scraping & Data Extraction
+* SQL & Database Management
+* Data Analysis & Reporting
+* Automation Workflows
+* Streamlit Applications
 
-- (Upcoming) Python EDA notebook on a public dataset  
-- College mini-projects (C / Java / web)
+## Tech Stack
 
-> Learning by building real-world projects.
+Python • SQL • Pandas • NumPy • PostgreSQL • MySQL • SQLite • Streamlit • Git/GitHub
+
+## Featured Project
+
+🚀 CSV Data Cleaning Tool
+Automates duplicate removal, missing value handling, and data standardization workflows.
+
+🔗 Live App:
+https://csv-cleaning-tool-3vdaxk2fgmggcrwrckwwdr.streamlit.app/
+
+## Currently
+
+* Building real-world data engineering projects
+* Exploring scalable automation systems
+* Open to freelance, internship, and collaboration opportunities
+
+📫 Contact:
+[panchami.r.datascience@gmail.com](mailto:panchami.r.datascience@gmail.com)
